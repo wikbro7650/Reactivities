@@ -1,6 +1,5 @@
 using Domain;
 using MediatR;
-using Microsoft.EntityFrameworkCore.Diagnostics;
 using Persistence;
 
 namespace Application.Activities
